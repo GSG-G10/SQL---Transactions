@@ -1,5 +1,6 @@
-# SQL-Transactions
 ## Transactions in SQL Server 
+
+<img src = 'https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/08/What-are-the-transactions.jpg' width=1000px height=400px>
 
 ### What Is a Transaction? 
 A transaction is a set of operations performed so all operations are guaranteed to succeed or fail as one unit.
@@ -47,4 +48,3 @@ The following three T-SQL statements control transactions in SQL Server:
 3. ROLLBACK TRANSACTION: This denotes that a transaction hasn't been successful and signals the database to roll back to the state it was in prior to the transaction.
 
 >Note: there is no END TRANSACTION statement. Transactions end on (explicit or implicit) commits and rollbacks.
- 
