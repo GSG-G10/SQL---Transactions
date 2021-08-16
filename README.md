@@ -9,9 +9,8 @@ Transaction is all or none
 A common example of a transaction is the process of transferring money from a checking account to a savings account.
  
 This involves two operations:
-1- Deducting money from the checking account and
 
->Note: in the USA a checking account is like a current account in India
+1- Deducting money from the checking account and
  
 2- Adding it to the savings account.
 
